@@ -1,0 +1,6 @@
+{
+  "name": "Shaisha Tours & Travels - Ooty Taxi & Cab Service",
+  "description": "Premium taxi service and guided sightseeing tours in Ooty, Nilgiris, Tamil Nadu. Reliable cabs, courteous drivers, custom tour packages, and outstation trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
